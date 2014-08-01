@@ -1,0 +1,406 @@
+{  
+   "total":7,
+   "movies":[  
+      {  
+         "id":"770675766",
+         "title":"The Hobbit: An Unexpected Journey",
+         "year":2012,
+         "mpaa_rating":"PG-13",
+         "runtime":170,
+         "critics_consensus":"",
+         "release_dates":{  
+            "theater":"2012-12-14",
+            "dvd":"2013-03-19"
+         },
+         "ratings":{  
+            "critics_rating":"Fresh",
+            "critics_score":64,
+            "audience_rating":"Upright",
+            "audience_score":83
+         },
+         "synopsis":"The Hobbit: An Unexpected Journey follows title character Bilbo Baggins, who is swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor, which was long ago conquered by the dragon Smaug. Approached out of the blue by the wizard Gandalf the Grey, Bilbo finds himself joining a company of thirteen dwarves led by the legendary warrior Thorin Oakenshield. Although their goal lies to the East and the wastelands of the Lonely Mountain, first they must escape the goblin tunnels, where Bilbo meets the creature that will change his life forever... Gollum. Here, alone with Gollum, on the shores of an underground lake, the unassuming Bilbo Baggins not only discovers depths ofguile and courage that surprise even him, he also gains possession of Gollum's \"precious\" ...a simple, gold ring that is tied to the fate of all Middle-earth in ways Bilbo cannot begin to know. -- (C) Warner Bros",
+         "posters":{  
+            "thumbnail": "http://content9.flixster.com/movie/11/17/02/11170263_tmb.jpg",
+            "profile": "http://content9.flixster.com/movie/11/17/02/11170263_tmb.jpg",
+            "detailed": "http://content9.flixster.com/movie/11/17/02/11170263_tmb.jpg",
+            "original": "http://content9.flixster.com/movie/11/17/02/11170263_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"Ian McKellen",
+               "id":"162653241",
+               "characters":[  
+                  "Gandalf"
+               ]
+            },
+            {  
+               "name":"Martin Freeman (II)",
+               "id":"162652296",
+               "characters":[  
+                  "Bilbo"
+               ]
+            },
+            {  
+               "name":"Richard Armitage",
+               "id":"546952855",
+               "characters":[  
+                  "Thorin"
+               ]
+            },
+            {  
+               "name":"Ken Stott",
+               "id":"407726897",
+               "characters":[  
+                  "Balin"
+               ]
+            },
+            {  
+               "name":"Graham McTavish",
+               "id":"770706931",
+               "characters":[  
+                  "Dwalin"
+               ]
+            }
+         ],
+         "alternate_ids":{  
+            "imdb":"0903624"
+         },
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/770675766.json",
+            "alternate":"http://www.rottentomatoes.com/m/the_hobbit_an_unexpected_journey/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/770675766/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/770675766/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/770675766/similar.json"
+         }
+      },
+      {  
+         "id":"147469332",
+         "title":"The Hobbit",
+         "year":1978,
+         "mpaa_rating":"Unrated",
+         "runtime":77,
+         "release_dates":{  
+            "theater":"1978-01-01",
+            "dvd":"2001-09-11"
+         },
+         "ratings":{  
+            "critics_rating":"Fresh",
+            "critics_score":67,
+            "audience_rating":"Upright",
+            "audience_score":64
+         },
+         "synopsis":"",
+         "posters":{  
+            "thumbnail":"http://content8.flixster.com/movie/31/38/313898_tmb.jpg",
+            "profile":"http://content8.flixster.com/movie/31/38/313898_tmb.jpg",
+            "detailed":"http://content8.flixster.com/movie/31/38/313898_tmb.jpg",
+            "original":"http://content8.flixster.com/movie/31/38/313898_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"Orson Bean",
+               "id":"335716068",
+               "characters":[  
+                  "Bilbo Baggins"
+               ]
+            },
+            {  
+               "name":"Richard Boone",
+               "id":"162661842",
+               "characters":[  
+                  "Smaug"
+               ]
+            },
+            {  
+               "name":"Brother Theodore",
+               "id":"770720693",
+               "characters":[  
+                  "Gollum"
+               ]
+            },
+            {  
+               "name":"Hans Conried",
+               "id":"162656933",
+               "characters":[  
+                  "Thorin Oakenshield"
+               ]
+            },
+            {  
+               "name":"Don Messick",
+               "id":"408746705",
+               "characters":[  
+                  "Balin"
+               ]
+            }
+         ],
+         "alternate_ids":{  
+            "imdb":"0077687"
+         },
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/147469332.json",
+            "alternate":"http://www.rottentomatoes.com/m/hobbit/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/147469332/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/147469332/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/147469332/similar.json"
+         }
+      },
+      {  
+         "id":"771181360",
+         "title":"The Hobbit: The Battle of The Five Armies",
+         "year":2014,
+         "mpaa_rating":"PG-13",
+         "runtime":166,
+         "release_dates":{  
+            "theater":"2014-12-17"
+         },
+         "ratings":{  
+            "critics_score":-1,
+            "audience_score":99
+         },
+         "synopsis":"From Academy Award (R)-winning filmmaker Peter Jackson comes \"The Hobbit: The Battle of the Five Armies,\" the third in a trilogy of films adapting the enduringly popular masterpiece The Hobbit, by J.R.R. Tolkien. \"The Hobbit: The Battle of the Five Armies\" brings to an epic conclusion the adventures of Bilbo Baggins, Thorin Oakenshield and the Company of Dwarves. Having reclaimed their homeland from the Dragon Smaug, the Company has unwittingly unleashed a deadly force into the world. Enraged, Smaug rains his fiery wrath down upon the defenseless men, women and children of Lake-town. Obsessed above all else with his reclaimed treasure, Thorin sacrifices friendship and honor tohoard it as Bilbo's frantic attempts to make him see reason drive the Hobbit towards a desperate and dangerous choice. But there are even greater dangers ahead. Unseen by any but the Wizard Gandalf, the great enemy Sauron has sent forth legions of Orcs in a stealth attack upon the Lonely Mountain. As darkness converges on their escalating conflict, the races of Dwarves, Elves and Men must decide - unite or be destroyed. Bilbo finds himself fighting for his life and the lives of his friends in the epic Battle of the Five Armies, as the future of Middle-earth hangs in the balance. (c) Warner Bros",
+         "posters":{  
+            "thumbnail":"http://content9.flixster.com/movie/11/17/97/11179703_tmb.jpg",
+            "profile":"http://content9.flixster.com/movie/11/17/97/11179703_tmb.jpg",
+            "detailed":"http://content9.flixster.com/movie/11/17/97/11179703_tmb.jpg",
+            "original":"http://content9.flixster.com/movie/11/17/97/11179703_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"Martin Freeman (II)",
+               "id":"162652296",
+               "characters":[  
+                  "Bilbo Baggins"
+               ]
+            },
+            {  
+               "name":"Ian McKellen",
+               "id":"162653241",
+               "characters":[  
+                  "Gandalf"
+               ]
+            },
+            {  
+               "name":"Richard Armitage",
+               "id":"546952855",
+               "characters":[  
+                  "Thorin Oakenshield"
+               ]
+            },
+            {  
+               "name":"Andy Serkis",
+               "id":"269710329",
+               "characters":[  
+                  "Gollum"
+               ]
+            },
+            {  
+               "name":"Elijah Wood",
+               "id":"162652512",
+               "characters":[  
+                  "Frodo Baggins"
+               ]
+            }
+         ],
+         "alternate_ids":{  
+            "imdb":"2310332"
+         },
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/771181360.json",
+            "alternate":"http://www.rottentomatoes.com/m/the_hobbit_the_battle_of_the_five_armies/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/similar.json"
+         }
+      },
+      {  
+         "id":"771315407",
+         "title":"The Hobbit: The Desolation Of Smaug",
+         "year":2013,
+         "mpaa_rating":"PG-13",
+         "runtime":161,
+         "critics_consensus":"",
+         "release_dates":{  
+            "theater":"2013-12-13",
+            "dvd":"2014-04-08"
+         },
+         "ratings":{  
+            "critics_rating":"Certified Fresh",
+            "critics_score":74,
+            "audience_rating":"Upright",
+            "audience_score":86
+         },
+         "synopsis":"The second in a trilogy of films adapting the enduringly popular masterpiece The Hobbit, by J.R.R. Tolkien, The Hobbit: The Desolation of Smaug continues the adventure of the title character Bilbo Baggins (Martin Freeman) as he journeys with the Wizard Gandalf (Ian McKellan) and thirteen Dwarves, led by Thorin Oakenshield (Richard Armitage) on an epic quest to reclaim the lost Dwarf Kingdom of Erebor.(c) WB",
+         "posters":{  
+            "thumbnail":"http://content6.flixster.com/movie/11/17/69/11176940_tmb.jpg",
+            "profile":"http://content6.flixster.com/movie/11/17/69/11176940_tmb.jpg",
+            "detailed":"http://content6.flixster.com/movie/11/17/69/11176940_tmb.jpg",
+            "original":"http://content6.flixster.com/movie/11/17/69/11176940_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"Ian McKellen",
+               "id":"162653241",
+               "characters":[  
+                  "Gandalf"
+               ]
+            },
+            {  
+               "name":"Martin Freeman (II)",
+               "id":"162652296",
+               "characters":[  
+                  "Bilbo Baggins"
+               ]
+            },
+            {  
+               "name":"Richard Armitage",
+               "id":"546952855",
+               "characters":[  
+                  "Thorin Oakenshield"
+               ]
+            },
+            {  
+               "name":"Benedict Cumberbatch",
+               "id":"355028249",
+               "characters":[  
+                  "Smaug"
+               ]
+            },
+            {  
+               "name":"Evangeline Lilly",
+               "id":"512423472",
+               "characters":[  
+                  "Tauriel"
+               ]
+            }
+         ],
+         "alternate_ids":{  
+            "imdb":"1170358"
+         },
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/771315407.json",
+            "alternate":"http://www.rottentomatoes.com/m/the_hobbit_the_desolation_of_smaug/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/771315407/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/771315407/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/771315407/similar.json"
+         }
+      },
+      {  
+         "id":"771368032",
+         "title":"The Hobbit: An Unexpected Journey (Extended Edition)",
+         "year":2013,
+         "mpaa_rating":"PG-13",
+         "runtime":182,
+         "release_dates":{  
+            "theater":"2013-12-12"
+         },
+         "ratings":{  
+            "critics_score":-1,
+            "audience_rating":"Upright",
+            "audience_score":97
+         },
+         "synopsis":"The Hobbit: An Unexpected Journey follows title character Bilbo Baggins, who is swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor, which was long ago conquered by the dragon Smaug. Approached out of the blue by the wizard Gandalf the Grey, Bilbo finds himself joining a company of thirteen dwarves led by the legendary warrior Thorin Oakenshield. Although their goal lies to the East and the wastelands of the Lonely Mountain, first they must escape the goblin tunnels, where Bilbo meets the creature that will change his life forever... Gollum. Here, alone with Gollum, on the shores of an underground lake, the unassuming Bilbo Baggins not only discovers depths ofguile and courage that surprise even him, he also gains possession of Gollum's \"precious\" ...a simple, gold ring that is tied to the fate of all Middle-earth in ways Bilbo cannot begin to know.",
+         "posters":{  
+            "thumbnail":"http://content8.flixster.com/movie/11/17/43/11174302_tmb.jpg",
+            "profile":"http://content8.flixster.com/movie/11/17/43/11174302_tmb.jpg",
+            "detailed":"http://content8.flixster.com/movie/11/17/43/11174302_tmb.jpg",
+            "original":"http://content8.flixster.com/movie/11/17/43/11174302_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"Martin Freeman (II)",
+               "id":"162652296"
+            },
+            {  
+               "name":"Richard Armitage",
+               "id":"546952855"
+            },
+            {  
+               "name":"Ken Stott",
+               "id":"407726897"
+            },
+            {  
+               "name":"Graham McTavish",
+               "id":"770706931"
+            }
+         ],
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/771368032.json",
+            "alternate":"http://www.rottentomatoes.com/m/the_hobbit_an_unexpected_journey_2013/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/771368032/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/771368032/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/771368032/similar.json"
+         }
+      },
+      {  
+         "id":"770821299",
+         "title":"Inside Tolkien's The Hobbit",
+         "year":2003,
+         "mpaa_rating":"Unrated",
+         "runtime":60,
+         "release_dates":{  
+            "theater":"2003-12-31",
+            "dvd":"2005-03-29"
+         },
+         "ratings":{  
+            "critics_score":-1,
+            "audience_rating":"Upright",
+            "audience_score":77
+         },
+         "synopsis":"",
+         "posters":{  
+            "thumbnail":"http://content6.flixster.com/movie/11/00/77/11007728_tmb.jpg",
+            "profile":"http://content6.flixster.com/movie/11/00/77/11007728_tmb.jpg",
+            "detailed":"http://content6.flixster.com/movie/11/00/77/11007728_tmb.jpg",
+            "original":"http://content6.flixster.com/movie/11/00/77/11007728_tmb.jpg"
+         },
+         "abridged_cast":[  
+            {  
+               "name":"J.R.R. Tolkien",
+               "id":"770723659"
+            }
+         ],
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/770821299.json",
+            "alternate":"http://www.rottentomatoes.com/m/inside-tolkiens-the-hobbit/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/770821299/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/770821299/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/770821299/similar.json"
+         }
+      },
+      {  
+         "id":"771377193",
+         "title":"Peter Jackson Invites You to the Set: In the Company of The Hobbit",
+         "year":2014,
+         "mpaa_rating":"Unrated",
+         "runtime":18,
+         "release_dates":{  
+
+         },
+         "ratings":{  
+            "critics_score":-1,
+            "audience_score":79
+         },
+         "synopsis":"A morning on The Hobbit set: From the pre-dawn crew calls, to actors being made up, to scene blocking, and shooting in Thranduil's Realm and Dale, culminating in lunchtime celebrations.",
+         "posters":{  
+            "thumbnail":"http://content8.flixster.com/movie/11/17/69/11176934_tmb.jpg",
+            "profile":"http://content8.flixster.com/movie/11/17/69/11176934_tmb.jpg",
+            "detailed":"http://content8.flixster.com/movie/11/17/69/11176934_tmb.jpg",
+            "original":"http://content8.flixster.com/movie/11/17/69/11176934_tmb.jpg"
+         },
+         "abridged_cast":[  
+
+         ],
+         "links":{  
+            "self":"http://api.rottentomatoes.com/api/public/v1.0/movies/771377193.json",
+            "alternate":"http://www.rottentomatoes.com/m/peter_jackson_invites_you_to_the_set_in_the_company_of_the_hobbit/",
+            "cast":"http://api.rottentomatoes.com/api/public/v1.0/movies/771377193/cast.json",
+            "reviews":"http://api.rottentomatoes.com/api/public/v1.0/movies/771377193/reviews.json",
+            "similar":"http://api.rottentomatoes.com/api/public/v1.0/movies/771377193/similar.json"
+         }
+      }
+   ],
+   "links":{  
+      "self":"http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=The+Hobbit&page_limit=10&page=1"
+   },
+   "link_template":"http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&page_limit={results-per-page}&page={page-number}"
+}

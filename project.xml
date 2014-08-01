@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta 
+		title="Rotten Search" 
+		package="com.massiveinteractive.rottensearch" 
+		version="1.0.0" 
+		company="Massive Interactive" />
+
+	<app 
+		main="Main" 
+		path="bin"
+		file="rottensearch" />
+
+	<window
+		width="1280"
+		height="720"
+		background="0xF0F3F4" 
+		fps="60" />
+
+	<window
+		width="0"
+		height="0"
+		if="html5" />
+
+	<source path="src" />
+
+	<assets 
+		path="assets" 
+		rename="assets" 
+		exclude="*.svg" />
+
+	<icon path="Assets/openfl.svg" />
+
+	<haxelib name="openfl" />
+	<haxelib name="msignal" />
+	<haxelib name="mcore" />
+	<haxelib name="minject" />
+	<haxelib name="mmvc" />	
+	<haxelib name="mloader" />	
+	<haxelib name="mdata" />	
+</project>
